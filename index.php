@@ -6,4 +6,8 @@
  * Time: 22:39
  */
 echo "Hello World!";
+
+if (true) {
+    echo "taip";
+}
 ?>
